@@ -14,7 +14,6 @@ This is a website to keep track of live COVID-19 data using APIs for both India 
 
 ### HTML, CSS, BOOTSTRAP, JAVASCRIPT is used for frontend program
 ### NodeJS is used for backend program
-### It is hosted free on Heroku.
 _ _ _
 
 ## Requirements
